@@ -1,4 +1,4 @@
-## A. tujuan
+n## A. tujuan
    FreeRADIUS adalah sebuah sistem keamanan dan manajemen akses yang digunakan untuk otentikasi, otorisasi, dan akuntansi (AAA) di jaringan komputer. Tujuan utama dari FreeRADIUS adalah menyediakan solusi terbuka dan fleksibel untuk mengelola akses pengguna ke jaringan. Beberapa tujuan utama dari FreeRADIUS melibatkan:
 
 1. Otentikasi Pengguna:
